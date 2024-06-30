@@ -1,5 +1,5 @@
 # ParticleConverter to FiguraScript
-Convert Particle.mcfunction to FiguraScript
+Convert Particle.mcfunction from https://github.com/kemo14331/Particle-Converter to FiguraScript
  
 ## Require
 - NodeJS 18.x
